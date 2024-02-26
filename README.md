@@ -1,4 +1,4 @@
-<h2>You can call me Can.</h2>
+<h2>You can call me "Can".</h2>
 <h3>I'm trying to be full-stack developer.</h3>
 
 - 🔭 I’m currently working on [Movie-Remix](https://github.com/burakcanavc/Movie-Remix)
