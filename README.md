@@ -1,5 +1,5 @@
-<h1 align="center">I'm Burakcan Avcı</h1>
-<h3 align="center">I'm full-stack developer.</h3>
+<h2 align="center">I'm Burakcan Avcı</h2>
+<h3 align="center">I'm trying to be full-stack developer.</h3>
 
 - 🔭 I’m currently working on [Movie-Remix](https://github.com/burakcanavc/Movie-Remix)
 
